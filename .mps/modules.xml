@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/hse.thesis.esuilang.shape.diagram/hse.thesis.esuilang.shape.diagram.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/hse.thesis.esuilang.statemachine/hse.thesis.esuilang.statemachine.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/hse.thesis.esuilang.statemachine/sandbox/hse.thesis.esuilang.statemachine.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/hse.thesis.eusuilang.expression/hse.thesis.eusuilang.expression.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/hse.thesis.eusuilang.expression/sandbox/hse.thesis.eusuilang.expression.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>

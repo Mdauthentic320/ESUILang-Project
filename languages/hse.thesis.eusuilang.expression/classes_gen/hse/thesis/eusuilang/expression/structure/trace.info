@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root>
+    <file name="ConceptPresentationAspectImpl.java">
+      <unit at="11,0,55,0" name="hse.thesis.eusuilang.expression.structure.ConceptPresentationAspectImpl" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <unit at="10,0,48,0" name="hse.thesis.eusuilang.expression.structure.LanguageConceptSwitch" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <unit at="14,0,160,0" name="hse.thesis.eusuilang.expression.structure.StructureAspectDescriptor" />
+    </file>
+  </root>
+</debug-info>
+
